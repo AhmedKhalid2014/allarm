@@ -46,7 +46,7 @@
     
     toggleLabel.text = @"Toggle All Alarms:";
     
-    toggleSwitch = [[UISwitch alloc] initWithFrame:CGRectMake((self.frame.size.width + 385),10,150,50)];
+    toggleSwitch = [[UISwitch alloc] initWithFrame:CGRectMake(self.frame.size.width,10,150,50)];
     
     toggleSwitch.frame = CGRectMake((self.frame.size.width + 250),10,150,50);
     
