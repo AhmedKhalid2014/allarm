@@ -1,0 +1,10 @@
+Package: com.irepo.allarm
+Name: Allarm
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: William Vabrinskas <wvabrinskas@gmail.com>
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Section: Tweaks
+Version: 0.0.1-109
+Installed-Size: 72
