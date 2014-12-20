@@ -19,7 +19,7 @@
 
 
 static UITableView *tableView;
-static AlarmViewController *controller;
+
 
 
 @interface WAllarmView : UIView {
