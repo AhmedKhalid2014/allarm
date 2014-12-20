@@ -72,8 +72,6 @@
 
 	%orig;
 
-	controller = self;
-
 	tableView = [self.view.subviews objectAtIndex:0];
 
 	WAllarmView *hostView = [[WAllarmView alloc] initWithFrame:CGRectMake(0,0,tableView.frame.size.width,50)];
